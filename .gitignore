@@ -1,2 +1,9 @@
+# Virtual Env
 myvenv/
+
+# PyCache
 __pycache__/
+.pytest.cache/
+
+# IDE
+.vscode
